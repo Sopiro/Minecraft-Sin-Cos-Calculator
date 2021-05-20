@@ -1,0 +1,14 @@
+{
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2017-07-11 03:55:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "desert": "2017-07-11 03:55:08 +0900"
+    },
+    "done": false
+  }
+}
