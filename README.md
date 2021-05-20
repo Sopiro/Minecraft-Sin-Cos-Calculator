@@ -1,11 +1,13 @@
 # Minecraft Sin, Cos Calculator
 
 Trigonometry(Sin, Cos) calculator in Minecraft.  
-Project done at 20170712  
-
-The algorithm used to calculate the sin, cos value is "[CORDIC](https://en.wikipedia.org/wiki/CORDIC)".
+Project done at 20170712.  
 
 [Youtube video](https://youtu.be/77p_mvShuGQ)
+
+## Features
+- The algorithm used to calculate the sin, cos value is "[CORDIC](https://en.wikipedia.org/wiki/CORDIC)".
+- My own conversion algorithm was used to convert fractions between Binary and BCD: [video](https://youtu.be/nwZJh3b39Bg)
 
 ## Samples
 |-|image|
