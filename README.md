@@ -9,6 +9,7 @@ Project done at 20170712.
 - The algorithm used to calculate the sin, cos value is "[CORDIC](https://en.wikipedia.org/wiki/CORDIC)".
 - My own conversion algorithm was used to convert fractions between Binary and BCD: [video](https://youtu.be/nwZJh3b39Bg)
 - Sequential Logic Circuit (It takes 6m30s to calculate one value)
+- input(00.0000 ~ 99.9999), output(0.0 ~ 1.0)
 
 ## Samples
 |-|image|
