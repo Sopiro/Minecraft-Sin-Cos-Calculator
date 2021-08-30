@@ -3,7 +3,7 @@
 Trigonometry(Sin, Cos) calculator in Minecraft.  
 Project done at 20170712.  
 
-[Youtube video](https://youtu.be/77p_mvShuGQ)
+Video: https://youtu.be/77p_mvShuGQ
 
 ## Features
 - The algorithm used to calculate the sin, cos value is "[CORDIC](https://en.wikipedia.org/wiki/CORDIC)".
